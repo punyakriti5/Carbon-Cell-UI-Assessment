@@ -1,0 +1,22 @@
+.crypto-card {
+  width: 300px;
+  height: 200px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem;
+}
+
+.crypto-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.crypto-price {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+}
